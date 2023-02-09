@@ -74,14 +74,14 @@ public class RCBTeam {
     }
 
     // Unit Test Case team_should_have_one_wicket_keeper
-    @Test(priority = 2)
+    @Test
     public void team_should_have_one_wicket_keeper() {
         int result = getWicketKeeperCount();
         Assert.assertEquals(result,1);
   }
 
     // Unit Test Case team_should_have_four_foreign_players
-    @Test(priority = 1)
+    @Test
     public void team_should_have_four_foreign_players() {
         boolean result = checkTeamHasFourForeignPlayers();
         Assert.assertEquals(result, true);

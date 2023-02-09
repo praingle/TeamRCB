@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57f91f8f-31b4-43d6-a085-7e436c3580e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RCBTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    <list default="true" id="57f91f8f-31b4-43d6-a085-7e436c3580e7" name="Changes" comment="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper">
+      <change beforePath="$PROJECT_DIR$/src/main/java/RCBTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RCBTeam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +93,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675877834421</updated>
     </task>
+    <task id="LOCAL-00001" summary="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper">
+      <created>1675923713781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675923713781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper" />
+    <option name="LAST_COMMIT_MESSAGE" value="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper" />
   </component>
 </project>
