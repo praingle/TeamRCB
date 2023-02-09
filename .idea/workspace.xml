@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57f91f8f-31b4-43d6-a085-7e436c3580e7" name="Changes" comment="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper">
-      <change beforePath="$PROJECT_DIR$/src/main/java/RCBTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RCBTeam.java" afterDir="false" />
-    </list>
+    <list default="true" id="57f91f8f-31b4-43d6-a085-7e436c3580e7" name="Changes" comment="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -100,8 +103,38 @@
       <option name="project" value="LOCAL" />
       <updated>1675923713781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper">
+      <created>1675924180207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675924180207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TeamRCB code - validate 4 foreign players and 1 Wicketkeeper" />
